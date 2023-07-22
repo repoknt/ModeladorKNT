@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939120435806",
+    "project_id": "kntkitchen-e39f4",
+    "storage_bucket": "kntkitchen-e39f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939120435806:android:897ad3314047c3fa37cacf",
+        "android_client_info": {
+          "package_name": "com.example.knt_kitchen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939120435806-b71fvtgvh3m6mn86lfk92448n6dgldtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48x3BSPihNONhZnAA6ZO_tM6j7mhTFG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939120435806-b71fvtgvh3m6mn86lfk92448n6dgldtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
